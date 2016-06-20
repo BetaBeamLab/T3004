@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="restart">Restart</string>
+    <string name="action_settings">Settings</string>
+    <string name="set1">Play Versus Bot</string>
+    <string name="set2">Dark Theme</string>
+</resources>
